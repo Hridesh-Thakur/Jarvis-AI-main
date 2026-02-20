@@ -11,6 +11,8 @@ function speak(text) {
     window.speechSynthesis.speak(text_speak);
 }
 
+
+
 function wishMe() {
     var day = new Date();
     var hour = day.getHours();
@@ -1040,5 +1042,6 @@ else {
   const finalText = "I found some information for " + message + " on Google";
   speak(finalText);
 }
+
 
 }
