@@ -12,8 +12,6 @@ function speak(text) {
 }
 
 
-
-
 function wishMe() {
     var day = new Date();
     var hour = day.getHours();
