@@ -26,6 +26,10 @@ It listens to your commands, processes them, and responds just like a smart assi
 1. Clone the repository:
    ```bash
    git clone https://github.com/Hridesh-Thakur/jarvis-ai.git
+
+
+
+   
 ---
 
 <div align="center">
