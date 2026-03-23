@@ -9,7 +9,7 @@ function speak(text) {
     text_speak.pitch = 1;
  
     window.speechSynthesis.speak(text_speak);
-}
+} 
  
 
 function wishMe() {
