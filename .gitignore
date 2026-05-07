@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+env.bak/
+venv.bak/
+.venv/
+.venv.bak/
+pythonenv*
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+*.manifest
+*.spec
+
+# Virtual Environment
+venv/
+.env/
+.env.local
+.env.*
+.env.local.*
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*~
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+._*
+ehthumbs.db
+Icon?
+nohup.out
+*.sublime-workspace
+*.sublime-project
+.vscode/
+.idea/
+*.swp
+
+# Build / cache
+node_modules/
+staticfiles/
+dist/
+build/
+out/
+
+# Secrets and config
+secrets.json
+config.json
+credentials.json
