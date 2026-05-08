@@ -1,5 +1,5 @@
 // JavaScript is here
-// Follow @Hridesh-
+// Follow @Hridesh-Thakur
 const btn = document.querySelector('.talk');
 const content = document.querySelector('.content');
 
