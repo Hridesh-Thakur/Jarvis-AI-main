@@ -5,9 +5,6 @@ It listens to your commands, processes them, and responds just like a smart assi
 
 ![JARVIS Preview](./image(2).png)  
 
-
-
-
 ---
 
 ## ✨ Features
