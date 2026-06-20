@@ -14,9 +14,6 @@ It listens to your commands, processes them, and responds just like a smart assi
 - 🎨 Futuristic J.A.R.V.I.S-themed UI
 - ⚡ Built using **HTML, CSS, JavaScript**
 
-
-
-
 ---
 
 ## 🛠️ Installation & Setup
