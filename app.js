@@ -2,9 +2,7 @@
 const btn = document.querySelector('.talk');
 const content = document.querySelector('.content');
 
-function speak(text) {
-   
-  
+function speak(text) {  
     const text_speak = new SpeechSynthesisUtterance(text);
 
     text_speak.rate = 1;
@@ -13,8 +11,6 @@ function speak(text) {
 
     window.speechSynthesis.speak(text_speak);
 }
-
-
 function wishMe() {
     var day = new Date();
     var hour = day.getHours();
